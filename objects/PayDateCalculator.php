@@ -16,8 +16,7 @@ class PayDateCalculator
 
     function __construct(?int $year)
     {
-        $year = $year ?? date("Y");
-        $this->year = $year;
+        $this->year = $year ?? date("Y");
         $this->initializeNationalHolidays();
     }
 
