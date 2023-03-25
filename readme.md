@@ -46,6 +46,10 @@ The pay dates will usually be the 10th day of the month, but if that date lands 
       "reminderDate": "2023-02-07"
     },
     ...
+    {
+      "payDate": "2023-12-10",
+      "reminderDate": "2023-12-06"
+    }
   ]
 }
 ```
