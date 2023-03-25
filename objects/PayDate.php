@@ -2,17 +2,13 @@
 
 namespace spinTek\objects;
 
-use DateTime;
-
 class PayDate {
     public string $payDate;
     public string $reminderDate;
 
-    function __construct(string $payDate, $reminderDate)
+    function __construct(string $payDate, string $reminderDate)
     {
         $this->payDate = $payDate;
         $this->reminderDate = $reminderDate;
     }
-
-
 }
