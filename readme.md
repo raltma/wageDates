@@ -1,4 +1,4 @@
-# SpinTek Recruitment Task
+# Wage dates
 ## Introduction
 This project is designed to output all the dates when the wages have to be payed. It was created using php 8.2
 
